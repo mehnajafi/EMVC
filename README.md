@@ -1,2 +1,2 @@
 # EMVC
-Source code of our paper "Error-Robust Multi-View Clustering"
+Source code of our paper titled "Error-Robust Multi-View Clustering", IEEE Big Data 2017.
