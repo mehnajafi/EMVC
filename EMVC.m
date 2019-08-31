@@ -1,9 +1,5 @@
 function [U] = EMVC(Data, X, lamb, betaa)
 
-%addpath('MIC/');
-addpath('LibADMM-master/proximal_operator');
-addpath('code_coregspectral/');
-
 num_views = size(X,2);
 N = size(X{1,1},2);
 obj = zeros(1, 1000);
